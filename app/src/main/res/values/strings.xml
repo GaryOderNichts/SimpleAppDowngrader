@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Downgrader</string>
+    <string name="button_text_downgrade">Downgrade</string>
+    <string name="button_text_choose_apk">Choose APK</string>
+
+    <string name="rationale_external_storage">This app needs access to your storage to read APK-files</string>
+</resources>
