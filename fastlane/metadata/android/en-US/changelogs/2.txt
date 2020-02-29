@@ -1,0 +1,3 @@
+v1.1
+- Improved User Interface
+- Bugfixes
