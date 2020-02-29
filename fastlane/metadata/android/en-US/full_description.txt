@@ -1,0 +1,5 @@
+This uses androids pm tool to downgrade already installed apps to an older version.
+Root access is required.
+
+Credits:
+* topjohnwu for libsu
